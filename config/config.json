@@ -1,0 +1,29 @@
+{
+  "minProfit": 0.5,
+  "minLiquidity": 10000,
+  "dealSize": 1000,
+  "minBalance": 0.1,
+  "triangles": [
+    [
+      "USDC",
+      "SOL",
+      "RAY"
+    ],
+    [
+      "USDC",
+      "SOL",
+      "JTO"
+    ]
+  ],
+  "testMode": true,
+  "scanInterval": 60000,
+  "whitelist": [
+    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "So11111111111111111111111111111111111111112"
+  ],
+  "baseTokens": [
+    "USDC",
+    "SOL"
+  ],
+  "network": "mainnet"
+}
